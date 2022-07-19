@@ -86,6 +86,8 @@ h1, h2, h3, h4, h5, h6 {
   min-height: 747px;
   box-sizing: content-box;
   padding: 0 15px;
+  width: 1510px;
+  margin: 0 auto;
 }
 .header__container {
   min-height: 101px;
@@ -169,6 +171,7 @@ span {
 .features {
   box-sizing: content-box;
   padding: 0 15px;
+  padding-top: 116px;
 }
 .features_item {
   flex: 0 1 370px;
@@ -181,7 +184,7 @@ span {
 .features__container {
   width: 1170px;
   height: 717px;
-  margin: 116px auto;
+  margin: 0 auto;
 }
 .features__items {
   display: flex;
